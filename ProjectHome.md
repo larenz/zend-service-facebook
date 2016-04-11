@@ -1,0 +1,1 @@
+Zend\_Service\_Facebook is a lightweight wrapper for the free REST API available for the Facebook platform.  With the API, you can add social context to your application by utilizing profile, friend, photo, and event data in your facebook app.
